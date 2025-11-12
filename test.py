@@ -14,7 +14,7 @@ import os
 
 # Initialize variables
 stop_words = set(stopwords.words('english'))
-filename = '/Users/aprameyas/Local Storage/Project S/Txt detection/09-JAN_test_1/balanced_dataset_15000.csv'
+filename = ''
 
 # clean text
 def cleanText(doc):
